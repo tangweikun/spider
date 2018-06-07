@@ -1,3 +1,5 @@
+// 使用 `eventproxy` 来控制并发
+
 var eventproxy = require('eventproxy')
 var superagent = require('superagent')
 var cheerio = require('cheerio')
